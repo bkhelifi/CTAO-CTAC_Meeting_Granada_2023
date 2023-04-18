@@ -40,7 +40,7 @@ jupyter lab
 
 ### [Spectral analysis of PKS 2155-304](https://github.com/bkhelifi/CTAO-CTAC_Meeting_Granada_2023/blob/main/1D_analysis.ipynb):
 A full 1D (spectral) analysis from A to Z for a point-like extra-Galactic source.
-### [3D analysis of MSH 15-52](https://github.com/bkhelifi/CTAO-CTAC_Meeting_Bologna_2022/blob/main/3D_analysis.ipynb) 
+### [3D analysis of MSH 15-52](https://github.com/bkhelifi/CTAO-CTAC_Meeting_Granada_2023/blob/main/3D_analysis.ipynb) 
 A full 3D analysis from A to Z for an extended Galactic source.
 
 These notebooks are adapted from the ones made my L. Giunti and A. Sinhaa.
