@@ -8,7 +8,6 @@
 2. [Installation and set-up](#install)
 3. [Learner session](#learner)
 4. [Advanced session](#advanced)
-5. [Participant list](#participant)
 
 ## Agenda and organisation <a name="agenda" />
 For this hands-on session of Gammapy, we will experience a new format within this 2h slot.
@@ -18,10 +17,6 @@ The session will be made with two parts:
 
 After having given the instructions to the more advanced users, we will start with the learner part. Then,
 we will work with the advanced users, making our best to continue to help the beginners.
-
-In this context, we **ask to register yourself** (in the [Participant list](#participant) section) in order
-to help us to adjust the content of each part.
-
 
 ## Installation and set-up<a name="install" />
 ### Gammapy installation
@@ -56,9 +51,4 @@ These notebooks are adapted from the ones made my L. Giunti and A. Sinhaa.
 ## Advanced session<a name="advanced" />
 tutorials
 
-## Participant list <a name="participant" />
-- Régis Terrier (APC, France): lead developper
-- Bruno Khélifi (APC, France): project manager
-- Bruce Willis (Mare Tranquillitatis, Moon): learner
-- Marie Curie (Varsaw, Poland): advanced
 
