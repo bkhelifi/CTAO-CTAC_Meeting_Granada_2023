@@ -26,8 +26,8 @@ to help us to adjust the content of each part.
 ## Installation and set-up<a name="install" />
 ### Gammapy installation
 
-The version 1.0.1 of Gammapy will be used. See the 
-[Quickstart Setup](https://docs.gammapy.org/dev/getting-started/index.html#quickstart-setup) 
+The **version 1.0.1** of Gammapy will be used. See the 
+[Quickstart Setup](https://docs.gammapy.org/1.0.1/getting-started/index.html#quickstart-setup) 
 of the documentation. And download the datasets as explained.
 
 ### Downloading tutorials
