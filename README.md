@@ -11,9 +11,17 @@
 5. [Participant list](#participant)
 
 ## Agenda and organisation <a name="agenda" />
-2 sessions
+For this hands-on session of Gammapy, we will experience a new format within this 2h slots.
+The session will be made with two parts:
+- one for learners or beginners
+- one for more advanced users
 
-**Please register** in the section "[Participant list](#participant)"
+After having given the instructions to the more advanced users, we will start with the learner part. Then,
+we will work with the advanced users, making our best to continue to help the beginners.
+
+In this context, we **ask to register yourself** (in the [Participant list](#participant) section) in order
+to help us to adjust the content of each part.
+
 
 ## Installation and set-up<a name="install" />
 ### Gammapy installation
