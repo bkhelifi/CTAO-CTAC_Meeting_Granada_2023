@@ -11,7 +11,7 @@
 5. [Participant list](#participant)
 
 ## Agenda and organisation <a name="agenda" />
-For this hands-on session of Gammapy, we will experience a new format within this 2h slots.
+For this hands-on session of Gammapy, we will experience a new format within this 2h slot.
 The session will be made with two parts:
 - one for learners or beginners
 - one for more advanced users
