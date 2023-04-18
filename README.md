@@ -40,7 +40,7 @@ git clone https://github.com/bkhelifi/CTAO-CTAC_Meeting_Granada_2023.git
 To access the tutorials:
 
 ```
-cd CTAO-CTAC_Meeting_Bologna_2022
+cd CTAO-CTAC_Meeting_Granada_2023
 jupyter lab
 ```
 
