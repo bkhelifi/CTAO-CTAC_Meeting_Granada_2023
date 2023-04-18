@@ -17,15 +17,33 @@
 
 ## Installation and set-up<a name="install" />
 ### Gammapy installation
-See:
+
+The version 1.0.1 of Gammapy will be used. See the 
+[Quickstart Setup](https://docs.gammapy.org/dev/getting-started/index.html#quickstart-setup) 
+of the documentation. And download the datasets as explained.
 
 ### Downloading tutorials
-Do: 
+Finally, to get the tutorials for this hands-on gammapy session you can clone this repository on your machine using
+
+```
+git clone https://github.com/bkhelifi/CTAO-CTAC_Meeting_Granada_2023.git
+```
+
+To access the tutorials:
+
+```
+cd CTAO-CTAC_Meeting_Bologna_2022
+jupyter lab
+```
 
 ## Learner session<a name="learner" />
-gammapy overview
 
-tutorials
+### [Spectral analysis of PKS 2155-304](https://github.com/bkhelifi/CTAO-CTAC_Meeting_Granada_2023/blob/main/1D_analysis.ipynb):
+A full 1D (spectral) analysis from A to Z for a point-like extra-Galactic source.
+### [3D analysis of MSH 15-52](https://github.com/bkhelifi/CTAO-CTAC_Meeting_Bologna_2022/blob/main/3D_analysis.ipynb) 
+A full 3D analysis from A to Z for an extended Galactic source.
+
+These notebooks are adapted from the ones made my L. Giunti and A. Sinhaa.
 
 ## Advanced session<a name="advanced" />
 tutorials
