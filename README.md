@@ -45,7 +45,7 @@ General introduction to Gammapy: [Gammapy overview](https://github.com/bkhelifi/
 
 ### [Spectral analysis of PKS 2155-304](https://github.com/bkhelifi/CTAO-CTAC_Meeting_Granada_2023/blob/main/1D_analysis.ipynb):
 A full 1D (spectral) analysis from A to Z for a point-like extra-Galactic source.
-### [3D analysis of MSH 15-52](https://github.com/bkhelifi/CTAO-CTAC_Meeting_Granada_2023/blob/main/3D_analysis.ipynb) 
+### [3D analysis of MSH 15-52](https://github.com/bkhelifi/CTAO-CTAC_Meeting_Granada_2023/blob/main/3D_analysis.ipynb):
 A full 3D analysis from A to Z for an extended Galactic source.
 
 These notebooks are adapted from the ones made my L. Giunti and A. Sinhaa.
@@ -56,5 +56,7 @@ We let you start an exercise, and we will then see the solution together.
 
 The objective is to quantify the systematic errors on spectral parameters caused by a possible absolute energy scale bias using simulations.
 
-Here is the exercise: [Spectral systematics study](https://github.com/bkhelifi/CTAO-CTAC_Meeting_Granada_2023/blob/main/Crab_simulations_systematic_errors_Exercise.ipynb)
+Here is the exercise:
+
+### [Spectral systematics study](https://github.com/bkhelifi/CTAO-CTAC_Meeting_Granada_2023/blob/main/Crab_simulations_systematic_errors_Exercise.ipynb)
 
