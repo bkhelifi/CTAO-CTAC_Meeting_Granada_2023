@@ -51,6 +51,10 @@ A full 3D analysis from A to Z for an extended Galactic source.
 These notebooks are adapted from the ones made my L. Giunti and A. Sinhaa.
 
 ## Advanced session<a name="advanced" />
-tutorials
 
+We let you start an exercise, and we will then see the solution together.
+
+The objective is to quantify the systematic errors on spectral parameters caused by a possible absolute energy scale bias using simulations.
+
+Here is the exercise: [Spectral systematics study](https://github.com/bkhelifi/CTAO-CTAC_Meeting_Granada_2023/blob/main/Crab_simulations_systematic_errors_Exercise.ipynb)
 
